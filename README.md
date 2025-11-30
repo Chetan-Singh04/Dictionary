@@ -1,7 +1,5 @@
 # Simple Dictionary Android App
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
 This is a basic Android dictionary application that allows users to search for the definitions of words.
 
 ## Table of Contents
